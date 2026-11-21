@@ -1,0 +1,686 @@
+[
+  {
+    "id": "not-style",
+    "title": "Not Style",
+    "subtitle": "Nuestro amor frente al mundo",
+    "index": "01",
+    "time": "3:54",
+    "duration": 234,
+    "type": "Metal alternativo",
+    "description": "Una historia de amor que no se esconde, incluso cuando el mundo tiene algo que decir.",
+    "image": "assets/not-style.png",
+    "audio": "audio/not-style.mp3",
+    "mureka": "https://www.mureka.ai/song-detail/LW8rbSsRZQbMMNxe9DB8mS?is_from_share=1",
+    "sections": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          {
+            "en": "Midnight, I don’t kill the lights when I arrive",
+            "es": "Medianoche, no apago las luces cuando llego"
+          },
+          {
+            "en": "Windows down, let them watch us as we drive",
+            "es": "Ventanas abajo, que nos miren mientras conducimos"
+          },
+          {
+            "en": "Like it matters what they say",
+            "es": "Como si importara lo que digan"
+          },
+          {
+            "en": "Between the fire and paradise",
+            "es": "Entre el fuego y el paraíso"
+          },
+          {
+            "en": "we always end up in the same place",
+            "es": "siempre terminamos en el mismo lugar"
+          },
+          {
+            "en": "You never let me slip away",
+            "es": "Nunca dejas que me aleje"
+          },
+          {
+            "en": "And even when you know the end",
+            "es": "E incluso cuando conoces el final"
+          },
+          {
+            "en": "you never really tell me no",
+            "es": "nunca me dices realmente que no"
+          },
+          {
+            "en": "We fall right back where we began",
+            "es": "Volvemos a caer justo donde empezamos"
+          },
+          {
+            "en": "again and again we go",
+            "es": "una y otra vez, volvemos"
+          }
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          {
+            "en": "I know I’m not James Dean",
+            "es": "Sé que no soy James Dean"
+          },
+          {
+            "en": "but that red lipstick pulls me in",
+            "es": "pero ese labial rojo me atrae"
+          },
+          {
+            "en": "Even when the world turns cold",
+            "es": "Incluso cuando el mundo se vuelve frío"
+          },
+          {
+            "en": "We don’t leave, we don’t break",
+            "es": "No nos vamos, no nos rompemos"
+          },
+          {
+            "en": "we just bend, we don’t fold",
+            "es": "nos doblamos, pero no cedemos"
+          },
+          {
+            "en": "We keep coming back again",
+            "es": "Seguimos regresando una y otra vez"
+          },
+          {
+            "en": "They say this won’t last",
+            "es": "Dicen que esto no durará"
+          },
+          {
+            "en": "that someday it’s gonna crash",
+            "es": "que algún día se vendrá abajo"
+          },
+          {
+            "en": "But we’re standing here the same",
+            "es": "Pero aquí seguimos, sin cambiar"
+          },
+          {
+            "en": "With your eyes on mine",
+            "es": "Con tus ojos sobre los míos"
+          },
+          {
+            "en": "and your hand in my hand",
+            "es": "y tu mano en mi mano"
+          },
+          {
+            "en": "like we don’t feel the flame",
+            "es": "como si no sintiéramos la llama"
+          },
+          {
+            "en": "We don’t leave, we don’t break",
+            "es": "No nos vamos, no nos rompemos"
+          },
+          {
+            "en": "we just start again",
+            "es": "simplemente empezamos otra vez"
+          }
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          {
+            "en": "What can I say when your eyes pull me in",
+            "es": "¿Qué puedo decir cuando tus ojos me atraen?"
+          },
+          {
+            "en": "Every time I try to leave I fall again",
+            "es": "Cada vez que intento irme, vuelvo a caer"
+          },
+          {
+            "en": "When the silence fills the room",
+            "es": "Cuando el silencio llena la habitación"
+          },
+          {
+            "en": "Driving slow with the lights down low",
+            "es": "Conduciendo despacio, con las luces tenues"
+          },
+          {
+            "en": "like there’s nothing left to lose",
+            "es": "como si ya no quedara nada que perder"
+          },
+          {
+            "en": "And the night just pulls us through",
+            "es": "Y la noche nos ayuda a seguir adelante"
+          },
+          {
+            "en": "There’s no one else, there’s no disguise",
+            "es": "No hay nadie más, no hay disfraces"
+          },
+          {
+            "en": "no other place I’d rather be",
+            "es": "ni otro lugar donde preferiría estar"
+          },
+          {
+            "en": "It’s always you, it’s always us",
+            "es": "Siempre eres tú, siempre somos nosotros"
+          },
+          {
+            "en": "it’s everything I see",
+            "es": "es todo lo que veo"
+          }
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          {
+            "en": "I know I’m not James Dean",
+            "es": "Sé que no soy James Dean"
+          },
+          {
+            "en": "but that red lipstick pulls me in",
+            "es": "pero ese labial rojo me atrae"
+          },
+          {
+            "en": "Even when the world turns cold",
+            "es": "Incluso cuando el mundo se vuelve frío"
+          },
+          {
+            "en": "We don’t leave, we don’t break",
+            "es": "No nos vamos, no nos rompemos"
+          },
+          {
+            "en": "we just bend, we don’t fold",
+            "es": "nos doblamos, pero no cedemos"
+          },
+          {
+            "en": "We keep coming back again",
+            "es": "Seguimos regresando una y otra vez"
+          },
+          {
+            "en": "They say this won’t last",
+            "es": "Dicen que esto no durará"
+          },
+          {
+            "en": "that someday it’s gonna crash",
+            "es": "que algún día se vendrá abajo"
+          },
+          {
+            "en": "But we’re standing here the same",
+            "es": "Pero aquí seguimos, sin cambiar"
+          },
+          {
+            "en": "With your eyes on mine",
+            "es": "Con tus ojos sobre los míos"
+          },
+          {
+            "en": "and your hand in my hand",
+            "es": "y tu mano en mi mano"
+          },
+          {
+            "en": "like we don’t feel the flame",
+            "es": "como si no sintiéramos la llama"
+          },
+          {
+            "en": "We don’t leave, we don’t break",
+            "es": "No nos vamos, no nos rompemos"
+          },
+          {
+            "en": "we just start again",
+            "es": "simplemente empezamos otra vez"
+          }
+        ]
+      },
+      {
+        "label": "Bridge",
+        "lines": [
+          {
+            "en": "We’re not a spark that fades away",
+            "es": "No somos una chispa que se apaga"
+          },
+          {
+            "en": "Not a storm that couldn’t stay",
+            "es": "Ni una tormenta incapaz de quedarse"
+          },
+          {
+            "en": "Even when the sky turns dark",
+            "es": "Incluso cuando el cielo se oscurece"
+          },
+          {
+            "en": "We’re the fire that learned to burn",
+            "es": "Somos el fuego que aprendió a arder"
+          },
+          {
+            "en": "We’re the truth that still remains",
+            "es": "Somos la verdad que aún permanece"
+          },
+          {
+            "en": "We’re the beating in the dark",
+            "es": "Somos el latido en la oscuridad"
+          }
+        ]
+      },
+      {
+        "label": "Final Chorus",
+        "lines": [
+          {
+            "en": "I know I’m not James Dean",
+            "es": "Sé que no soy James Dean"
+          },
+          {
+            "en": "but that red lipstick pulls me in",
+            "es": "pero ese labial rojo me atrae"
+          },
+          {
+            "en": "Even when the world turns cold",
+            "es": "Incluso cuando el mundo se vuelve frío"
+          },
+          {
+            "en": "We don’t leave, we don’t break",
+            "es": "No nos vamos, no nos rompemos"
+          },
+          {
+            "en": "we just bend, we don’t fold",
+            "es": "nos doblamos, pero no cedemos"
+          },
+          {
+            "en": "We keep coming back again",
+            "es": "Seguimos regresando una y otra vez"
+          },
+          {
+            "en": "And if it all comes back around",
+            "es": "Y si todo vuelve a repetirse"
+          },
+          {
+            "en": "we won’t try to slow it down",
+            "es": "no intentaremos frenarlo"
+          },
+          {
+            "en": "We just let it burn again",
+            "es": "Simplemente dejamos que vuelva a arder"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "i-tried",
+    "title": "I Tried to Hold Everything",
+    "subtitle": "Quedarse por elección",
+    "index": "02",
+    "time": "4:28",
+    "duration": 268,
+    "type": "Alternative R&B",
+    "description": "Dos personas que se dan tiempo para descubrir lo que sienten, sin pedir ni exigir que el amor permanezca.",
+    "image": "assets/i-tried-1.png",
+    "audio": "audio/i-tried-to-hold-everything.mp3",
+    "mureka": "https://www.mureka.ai/song-detail/9WoYWbjQb5njMf98bMVGZm?is_from_share=1",
+    "sections": [
+      {
+        "label": "Verse 1",
+        "lines": [
+          {
+            "en": "I tried to hold everything",
+            "es": "Intenté sostenerlo todo"
+          },
+          {
+            "en": "Tried to keep it all in place",
+            "es": "Intenté mantener todo en su lugar"
+          },
+          {
+            "en": "But not with you",
+            "es": "Pero contigo no"
+          },
+          {
+            "en": "I let it go",
+            "es": "Lo dejé ir"
+          },
+          {
+            "en": "I never told you how to feel",
+            "es": "Nunca te dije cómo debías sentirte"
+          },
+          {
+            "en": "Never pushed you to be mine",
+            "es": "Nunca te presioné para que fueras mía"
+          },
+          {
+            "en": "I gave you space",
+            "es": "Te di espacio"
+          },
+          {
+            "en": "I gave you time",
+            "es": "Te di tiempo"
+          }
+        ]
+      },
+      {
+        "label": "Pre-Chorus",
+        "lines": [
+          {
+            "en": "We didn’t fall too fast",
+            "es": "No nos enamoramos demasiado rápido"
+          },
+          {
+            "en": "We didn’t burn too bright",
+            "es": "No ardimos con demasiada intensidad"
+          },
+          {
+            "en": "We let it breathe",
+            "es": "Lo dejamos respirar"
+          },
+          {
+            "en": "We let it be",
+            "es": "Lo dejamos ser"
+          }
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          {
+            "en": "I didn’t tell you to stay",
+            "es": "No te dije que te quedaras"
+          },
+          {
+            "en": "I didn’t ask you to stay",
+            "es": "No te pedí que te quedaras"
+          },
+          {
+            "en": "But my heart said stay",
+            "es": "Pero mi corazón decía: «Quédate»"
+          },
+          {
+            "en": "Yeah, my heart said stay",
+            "es": "Sí, mi corazón decía: «Quédate»"
+          },
+          {
+            "en": "Your mind said “I don’t know”",
+            "es": "Tu mente decía: «No lo sé»"
+          },
+          {
+            "en": "Your eyes said “don’t go”",
+            "es": "Tus ojos decían: «No te vayas»"
+          },
+          {
+            "en": "And everything in me",
+            "es": "Y todo lo que había en mí"
+          },
+          {
+            "en": "Everything in you",
+            "es": "Todo lo que había en ti"
+          },
+          {
+            "en": "Was saying stay",
+            "es": "Decía: «Quédate»"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "Don’t let this go away",
+            "es": "No dejes que esto desaparezca"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "We felt it in that space",
+            "es": "Lo sentimos en aquel espacio"
+          },
+          {
+            "en": "No words, just the night",
+            "es": "Sin palabras, solo la noche"
+          },
+          {
+            "en": "No plans, just the time",
+            "es": "Sin planes, solo el tiempo"
+          },
+          {
+            "en": "And everything we were",
+            "es": "Y todo lo que fuimos"
+          },
+          {
+            "en": "Everything we are",
+            "es": "Todo lo que somos"
+          },
+          {
+            "en": "Was saying stay",
+            "es": "Decía: «Quédate»"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "Yeah, it stayed",
+            "es": "Sí, permaneció"
+          }
+        ]
+      },
+      {
+        "label": "Verse 2",
+        "lines": [
+          {
+            "en": "You came to me in pain",
+            "es": "Llegaste a mí con dolor"
+          },
+          {
+            "en": "And I was lost the same",
+            "es": "Y yo estaba igual de perdido"
+          },
+          {
+            "en": "We weren’t ready",
+            "es": "No estábamos preparados"
+          },
+          {
+            "en": "Not even close",
+            "es": "Ni siquiera un poco"
+          },
+          {
+            "en": "We held on to something small",
+            "es": "Nos aferramos a algo pequeño"
+          },
+          {
+            "en": "Something real beneath it all",
+            "es": "A algo real, debajo de todo"
+          },
+          {
+            "en": "And over time",
+            "es": "Y con el tiempo"
+          },
+          {
+            "en": "It started to grow",
+            "es": "Comenzó a crecer"
+          }
+        ]
+      },
+      {
+        "label": "Pre-Chorus 2",
+        "lines": [
+          {
+            "en": "We didn’t rush the start",
+            "es": "No apresuramos el comienzo"
+          },
+          {
+            "en": "We didn’t force the spark",
+            "es": "No forzamos la chispa"
+          },
+          {
+            "en": "We let it grow",
+            "es": "Lo dejamos crecer"
+          },
+          {
+            "en": "We let it show",
+            "es": "Dejamos que se manifestara"
+          }
+        ]
+      },
+      {
+        "label": "Chorus",
+        "lines": [
+          {
+            "en": "I didn’t tell you to stay",
+            "es": "No te dije que te quedaras"
+          },
+          {
+            "en": "I didn’t ask you to stay",
+            "es": "No te pedí que te quedaras"
+          },
+          {
+            "en": "But my heart said stay",
+            "es": "Pero mi corazón decía: «Quédate»"
+          },
+          {
+            "en": "Yeah, my heart said stay",
+            "es": "Sí, mi corazón decía: «Quédate»"
+          },
+          {
+            "en": "Your mind said “I don’t know”",
+            "es": "Tu mente decía: «No lo sé»"
+          },
+          {
+            "en": "Your eyes said “don’t go”",
+            "es": "Tus ojos decían: «No te vayas»"
+          },
+          {
+            "en": "And everything in me",
+            "es": "Y todo lo que había en mí"
+          },
+          {
+            "en": "Everything in you",
+            "es": "Todo lo que había en ti"
+          },
+          {
+            "en": "Was saying stay",
+            "es": "Decía: «Quédate»"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "Don’t let this go away",
+            "es": "No dejes que esto desaparezca"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "We felt it in that space",
+            "es": "Lo sentimos en aquel espacio"
+          },
+          {
+            "en": "No words, just the night",
+            "es": "Sin palabras, solo la noche"
+          },
+          {
+            "en": "No plans, just the time",
+            "es": "Sin planes, solo el tiempo"
+          },
+          {
+            "en": "And everything we were",
+            "es": "Y todo lo que fuimos"
+          },
+          {
+            "en": "Everything we are",
+            "es": "Todo lo que somos"
+          },
+          {
+            "en": "Was saying stay",
+            "es": "Decía: «Quédate»"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "Yeah, it stayed",
+            "es": "Sí, permaneció"
+          }
+        ]
+      },
+      {
+        "label": "Bridge",
+        "lines": [
+          {
+            "en": "I didn’t change your heart",
+            "es": "No cambié tu corazón"
+          },
+          {
+            "en": "I didn’t pull you close",
+            "es": "No te atraje hacia mí a la fuerza"
+          },
+          {
+            "en": "I let you feel",
+            "es": "Te dejé sentir"
+          },
+          {
+            "en": "What you needed most",
+            "es": "Lo que más necesitabas"
+          },
+          {
+            "en": "And over time",
+            "es": "Y con el tiempo"
+          },
+          {
+            "en": "You turned to me",
+            "es": "Te acercaste a mí"
+          },
+          {
+            "en": "Not because I tried",
+            "es": "No porque yo lo intentara"
+          },
+          {
+            "en": "But because you chose",
+            "es": "Sino porque tú lo elegiste"
+          }
+        ]
+      },
+      {
+        "label": "Final Chorus",
+        "lines": [
+          {
+            "en": "I didn’t tell you to stay",
+            "es": "No te dije que te quedaras"
+          },
+          {
+            "en": "I didn’t ask you to stay",
+            "es": "No te pedí que te quedaras"
+          },
+          {
+            "en": "But my heart said stay",
+            "es": "Pero mi corazón decía: «Quédate»"
+          },
+          {
+            "en": "Yeah, my heart said stay",
+            "es": "Sí, mi corazón decía: «Quédate»"
+          },
+          {
+            "en": "No words, just the night",
+            "es": "Sin palabras, solo la noche"
+          },
+          {
+            "en": "No plans, just the time",
+            "es": "Sin planes, solo el tiempo"
+          },
+          {
+            "en": "And everything we were",
+            "es": "Y todo lo que fuimos"
+          },
+          {
+            "en": "Everything we are",
+            "es": "Todo lo que somos"
+          },
+          {
+            "en": "Was saying stay",
+            "es": "Decía: «Quédate»"
+          },
+          {
+            "en": "Stay…",
+            "es": "Quédate…"
+          },
+          {
+            "en": "Yeah, it stayed",
+            "es": "Sí, permaneció"
+          }
+        ]
+      }
+    ]
+  }
+]
